@@ -1,0 +1,2 @@
+public enum Categorie { RESEAU, COMPTE, MATERIEL, LOGICIEL, SECURITE }
+
